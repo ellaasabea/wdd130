@@ -19,7 +19,7 @@ main img {
   height: auto;
   border: 2px solid black;
   padding: 2px;
-  box-shadow:2px, 4px;
+  box-shadow: 2px;
 }
 p { 
  padding: 0;
